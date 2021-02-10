@@ -1,0 +1,2 @@
+# Bankist-App
+Here in this Single Page WebApp you can find the transactions made with different users. This webapp has features like showing the Current Balance, Withdrawals, Deposits and Transfer Money Section . This is Dynamic loading page where, if you transfer money to the other account it is displayed in the sent account. Programming Languages include HTML, CSS, and Javascript. With great UI interaction and User experience.
